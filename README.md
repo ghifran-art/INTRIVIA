@@ -7,5 +7,5 @@
 ## Kesan Pesan INTRIVIA Sejauh Ini 
 [Semoga kegiatan INTRIVIA lebih baik lagi dari sebelumnya] 
 
-## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
+## Kesan Pesan Cluster [17] Sejauh Ini 
 [Saya bisa mengenal teman-teman bukan hanya dari TEKKOM saja, tapi dari TIF juga]
